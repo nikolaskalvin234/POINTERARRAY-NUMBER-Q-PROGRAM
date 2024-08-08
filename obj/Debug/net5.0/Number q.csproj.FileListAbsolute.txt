@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\Number q.exe
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\Number q.deps.json
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\Number q.runtimeconfig.json
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\Number q.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\Number q.dll
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\ref\Number q.dll
+C:\Users\kalvi\Documents\Number q\bin\Debug\net5.0\Number q.pdb
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.AssemblyInfo.cs
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.dll
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\ref\Number q.dll
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.pdb
+C:\Users\kalvi\Documents\Number q\obj\Debug\net5.0\Number q.genruntimeconfig.cache
